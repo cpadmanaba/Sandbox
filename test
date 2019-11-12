@@ -1,0 +1,16 @@
+#Data Preparation
+
+ 
+Generally we will do the following steps in preparing the dataset before we can do any data analysis in a machine learning system:
+
+- Reading the data
+- Handling any missing data
+- Handling any categorical data
+- Scaling the data
+- Splitting training and test data
+
+Some packages are needed for data analysis:
+
+
+
+
